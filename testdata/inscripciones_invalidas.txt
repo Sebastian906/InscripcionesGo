@@ -1,0 +1,15 @@
+1234567,Lulú López,1040,Cálculo
+9876534,Pepito Pérez,1040
+4567766,,1050,Física I
+1234567,Lulú López,1060,Administración
+
+999,Juan,1070,Espíritu Empresarial
+,Ana García,1040,Cálculo
+2222222,Carlos Ruiz,1060,Administración,Extra Campo
+3333333,María Rodríguez
+1111111,Ana García,1050,Física I
+2222222,Carlos Ruiz,,Programación I
+3333333,María Rodríguez,1080,
+4444444,X,1040,Cálculo
+12345678901234,Nombre Muy Largo Para Validar,1050,Física I
+5555555,Laura Fernández,1060,Administración

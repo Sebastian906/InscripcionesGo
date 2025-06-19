@@ -1,0 +1,152 @@
+[
+  {
+    "estudiante": {
+      "cedula": "5555555",
+      "nombre": "Laura Fernández"
+    },
+    "materia": {
+      "codigo": "1060",
+      "nombre": "Administración"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "1234567",
+      "nombre": "Lulú López"
+    },
+    "materia": {
+      "codigo": "1040",
+      "nombre": "Cálculo"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "1234567",
+      "nombre": "Lulú López"
+    },
+    "materia": {
+      "codigo": "1060",
+      "nombre": "Administración"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "9876534",
+      "nombre": "Pepito Pérez"
+    },
+    "materia": {
+      "codigo": "1040",
+      "nombre": "Cálculo"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "9876534",
+      "nombre": "Pepito Pérez"
+    },
+    "materia": {
+      "codigo": "1050",
+      "nombre": "Física I"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "4567766",
+      "nombre": "Calvin Clein"
+    },
+    "materia": {
+      "codigo": "1050",
+      "nombre": "Física I"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "4567766",
+      "nombre": "Calvin Clein"
+    },
+    "materia": {
+      "codigo": "1070",
+      "nombre": "Espíritu Empresarial"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "1111111",
+      "nombre": "Ana García"
+    },
+    "materia": {
+      "codigo": "1040",
+      "nombre": "Cálculo"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "1111111",
+      "nombre": "Ana García"
+    },
+    "materia": {
+      "codigo": "1050",
+      "nombre": "Física I"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "2222222",
+      "nombre": "Carlos Ruiz"
+    },
+    "materia": {
+      "codigo": "1060",
+      "nombre": "Administración"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "2222222",
+      "nombre": "Carlos Ruiz"
+    },
+    "materia": {
+      "codigo": "1080",
+      "nombre": "Programación I"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "3333333",
+      "nombre": "María Rodríguez"
+    },
+    "materia": {
+      "codigo": "1070",
+      "nombre": "Espíritu Empresarial"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "3333333",
+      "nombre": "María Rodríguez"
+    },
+    "materia": {
+      "codigo": "1080",
+      "nombre": "Programación I"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "4444444",
+      "nombre": "Juan Martínez"
+    },
+    "materia": {
+      "codigo": "1040",
+      "nombre": "Cálculo"
+    }
+  },
+  {
+    "estudiante": {
+      "cedula": "4444444",
+      "nombre": "Juan Martínez"
+    },
+    "materia": {
+      "codigo": "1050",
+      "nombre": "Física I"
+    }
+  }
+]
