@@ -1,5 +1,4 @@
 CEDULA,NOMBRE_ESTUDIANTE,CODIGO_MATERIA,NOMBRE_MATERIA
-5555555,Laura Fernández,1060,Administración
 1234567,Lulú López,1040,Cálculo
 1234567,Lulú López,1060,Administración
 9876534,Pepito Pérez,1040,Cálculo
@@ -14,3 +13,4 @@ CEDULA,NOMBRE_ESTUDIANTE,CODIGO_MATERIA,NOMBRE_MATERIA
 3333333,María Rodríguez,1080,Programación I
 4444444,Juan Martínez,1040,Cálculo
 4444444,Juan Martínez,1050,Física I
+5555555,Laura Fernández,1060,Administración

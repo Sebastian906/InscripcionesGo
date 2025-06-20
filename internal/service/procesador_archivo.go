@@ -77,7 +77,7 @@ func (p *ProcesadorArchivo) ProcesarArchivo(ruta string) (*domain.ConsolidadoIns
 	return consolidado, nil
 }
 
-func (p *ProcesadorArchivo) validarLinea(linea string, numeroLinea int) error {
+func (p *ProcesadorArchivo) validarLinea(linea string, _ int) error {
 	if strings.TrimSpace(linea) == "" {
 		return fmt.Errorf("línea vacía")
 	}
