@@ -64,35 +64,35 @@ El proyecto sigue una **arquitectura hexagonal (Clean Architecture)** con las si
 ```
 /inscripciones
 ├── /cmd                     # Punto de entrada de la aplicación
-│   ├── inscripciones.db    # Base de datos SQLite
-│   └── main.go             # Función principal
-├── /internal               # Código interno de la aplicación
-│   ├── /domain            # Entidades del dominio
-│   │   ├── estudiante.go  # Entidad Estudiante
-│   │   ├── materia.go     # Entidad Materia
-│   │   └── inscripcion.go # Entidad Inscripción y Consolidado
-│   ├── /repository        # Capa de acceso a datos
-│   │   ├── database.go    # Configuración de BD
+│   ├── inscripciones.db     # Base de datos SQLite
+│   └── main.go              # Función principal
+├── /internal                # Código interno de la aplicación
+│   ├── /domain              # Entidades del dominio
+│   │   ├── estudiante.go    # Entidad Estudiante
+│   │   ├── materia.go       # Entidad Materia
+│   │   └── inscripcion.go   # Entidad Inscripción y Consolidado
+│   ├── /repository          # Capa de acceso a datos
+│   │   ├── database.go      # Configuración de BD
 │   │   ├── estudiante_repo.go
 │   │   ├── materia_repo.go
 │   │   └── inscripcion_repo.go
-│   ├── /service           # Lógica de negocio
+│   ├── /service             # Lógica de negocio
 │   │   ├── consultas_avanzadas.go
 │   │   ├── procesador_archivo.go
 │   │   └── inscripcion_service.go
-│   └── /ui                # Interfaz de usuario
-│       └── console.go     # Interfaz de consola
-├── /pkg                   # Paquetes reutilizables
-│   └── /fileutil         # Utilidades para archivos
+│   └── /ui                  # Interfaz de usuario
+│       └── console.go       # Interfaz de consola
+├── /pkg                     # Paquetes reutilizables
+│   └── /fileutil            # Utilidades para archivos
 │       └── lector_archivo.go
-├── /testdata              # Archivos de prueba
+├── /testdata                # Archivos de prueba
 │   ├── inscripciones_validas.txt
 │   └── inscripciones_invalidas.txt
-├── go.mod                 # Dependencias del proyecto
-├── go.sum                 # Checksums de dependencias
-├── inscripciones.csv      # Archivo de salida CSV
-├── inscripciones.json     # Archivo de salida JSON
-└── inscripciones.db       # Base de datos SQLite
+├── go.mod                   # Dependencias del proyecto
+├── go.sum                   # Checksums de dependencias
+├── inscripciones.csv        # Archivo de salida CSV
+├── inscripciones.json       # Archivo de salida JSON
+└── inscripciones.db         # Base de datos SQLite
 ```
 
 ## 🚀 Instalación y Configuración
